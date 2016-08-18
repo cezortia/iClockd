@@ -1,6 +1,6 @@
 iClockd
 =======
-- Mahesh B Keerthivasan, 2011
+- 2011
 
 A simple terminal based clock-in and timesheet management utility written in Bash.
 
