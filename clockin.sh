@@ -2,7 +2,7 @@
 
 # A Unix Clockin Utility 
 
-# Author : Mahesh Bharath Keerthivasan
+# Author : Mahesh Keerthivasan
 
 # Date : February 6 2011 
 
